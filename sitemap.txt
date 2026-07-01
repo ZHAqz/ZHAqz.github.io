@@ -1,2 +1,4 @@
+http://example.com/list/index.html
+http://example.com/index/index.html
 http://example.com/2026/05/07/hello-world/
 http://example.com/
