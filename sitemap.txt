@@ -1,5 +1,6 @@
+http://example.com/list/index-1.html
+http://example.com/list/index.html
 http://example.com/index/index-1.html
 http://example.com/index/index.html
-http://example.com/list/index.html
 http://example.com/2026/05/07/hello-world/
 http://example.com/
